@@ -117,7 +117,7 @@ opacity: .85;
     background-size:cover;
     background-position: center top;
     overflow: hidden;
-    background-image: url(/assets/background.jpg)
+    background-image: url(./assets/background.jpg)
 }
 
 .eyebrow{
